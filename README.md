@@ -15,3 +15,4 @@ Secured with SpringSecurity 6 w/ JWT Token authentication
 
 EN/ZH support.
 
+demo: https://demo-loginapp-production.up.railway.app/#/
