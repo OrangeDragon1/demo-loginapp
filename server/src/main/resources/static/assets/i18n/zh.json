@@ -1,0 +1,72 @@
+{
+  "menubar": {
+    "logged_in_as": "登录为",
+    "items": {
+      "dashboard": "仪表盘",
+      "control_panel": "控制面板",
+      "logout": "登出"
+    }
+  },
+  "login": {
+    "main": "欢迎回来",
+    "message1": "没有账号？",
+    "message2": "这里注册！",
+    "login_credential": "账号名或邮箱",
+    "password": "密码",
+    "sign_in": "登录"
+  },
+  "registration": {
+    "main": "注册",
+    "username": "账号名",
+    "password": "密码",
+    "email": "邮箱",
+    "first_name": "名",
+    "last_name": "姓",
+    "register": "注册"
+  },
+  "dashboard": {
+    "main": "欢迎回来！",
+    "items": {
+      "orders" : "订单",
+      "revenue" : "收入",
+      "customers" : "顾客",
+      "comments" : "评论"
+    },
+    "comments":{
+      "since_last_visit": "最近",
+      "since_last_week": "上一周",
+      "newly_registered": "新用户",
+      "responded": "回复",
+      "unread": "未读"
+    }
+  },
+
+  "control_panel": {
+    "main": "控制面板",
+    "lorem": "首泉斗。珠親車五寺豆才美路步想頭士植流因每步虎虎，氣葉一姐，根久圓告跟里由固您朋英英道同杯陽課？",
+    "items": {
+      "orders" : "订单",
+      "revenue" : "收入",
+      "customers" : "顾客",
+      "comments" : "评论",
+      "market_share" : "市场份额",
+      "p_l": "收益与损失",
+      "gross_p_m": "毛利润率",
+      "web_traffic": "网络流量",
+      "net_p_m": "净利润率",
+      "lead_conv_rates": "潜在客户转化率",
+      "retention_rates": "保留率",
+      "emp_satisfaction": "员工满意度"
+    },
+    "comments": {
+      "since_last_visit": "最近",
+      "since_last_month": "上一个月",
+      "since_last_week": "上一周",
+      "newly_registered": "新用户",
+      "responded": "回复",
+      "since_last_year": "上一年",
+      "since_last_quarter": "上一个季度",
+      "unread": "未读"
+    }
+  }
+}

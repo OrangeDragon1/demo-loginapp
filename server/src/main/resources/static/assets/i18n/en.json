@@ -1,0 +1,71 @@
+{
+  "menubar": {
+    "logged_in_as": "Logged in as",
+    "items": {
+      "dashboard": "Dashboard",
+      "control_panel": "Control Panel",
+      "logout": "Log Out"
+    }
+  },
+  "login": {
+    "main": "Welcome Back",
+    "message1": "Don't have an account?",
+    "message2": "Register here!",
+    "login_credential": "Email or Username",
+    "password": "Password",
+    "sign_in": "Sign In"
+  },
+  "registration": {
+    "main": "Registration",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "register": "Register"
+  },
+  "dashboard": {
+    "main": "Welcome Back!",
+    "items": {
+      "orders" : "Orders",
+      "revenue" : "Revenue",
+      "customers" : "Customers",
+      "comments" : "Comments"
+    },
+    "comments": {
+      "since_last_visit": "since last visit",
+      "since_last_week": "since last week",
+      "newly_registered": "newly registered",
+      "responded": "responded",
+      "unread": "Unread"
+    }
+  },
+  "control_panel": {
+    "main": "Control Panel",
+    "lorem": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit numquam eligendi quos.",
+    "items": {
+      "orders" : "Orders",
+      "revenue" : "Revenue",
+      "customers" : "Customers",
+      "comments" : "Comments",
+      "market_share" : "Market Share",
+      "p_l": "Profit & Loss",
+      "gross_p_m": "Gross Profit Margin",
+      "web_traffic": "Web Traffic",
+      "net_p_m": "Net Profit Margin",
+      "lead_conv_rates": "Lead Conversion Rates",
+      "retention_rates": "Retention Rates",
+      "emp_satisfaction": "Employee Satisfaction"
+    },
+    "comments": {
+      "since_last_visit": "since last visit",
+      "since_last_month": "since last month",
+      "since_last_week": "since last week",
+      "newly_registered": "newly registered",
+      "responded": "responded",
+      "since_last_year": "since last year",
+      "since_last_quarter": "since last quarter",
+      "unread": "Unread"
+    }
+  }
+}
